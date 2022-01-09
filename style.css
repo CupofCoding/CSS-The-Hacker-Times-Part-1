@@ -110,7 +110,7 @@ p {
 }
 
 footer {
-  display: inline-grid;
+  display: grid;
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: repeat(5, 25px);
   gap: 0;
