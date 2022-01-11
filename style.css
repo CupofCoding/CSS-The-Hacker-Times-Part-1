@@ -47,6 +47,9 @@ h5 {
 }
 
 nav {
+  position: sticky;
+  background-color: white;
+  top: 0;
   text-align: center;
   margin: 0;
   padding: 0;
